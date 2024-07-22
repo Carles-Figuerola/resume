@@ -1,8 +1,8 @@
 # Carles Figuerola's CV
 
-- Phone: +90 541 999 99 99
+- Phone: +1 312 555 5555
 - Email: [youremail@yourdomain.com](mailto:youremail@yourdomain.com)
-- Location: Your Location
+- Location: Chicago, IL, USA
 - Website: [yourwebsite.com](https://yourwebsite.com/)
 - LinkedIn: [yourusername](https://linkedin.com/in/yourusername)
 - GitHub: [yourusername](https://github.com/yourusername)
