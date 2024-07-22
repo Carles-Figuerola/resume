@@ -43,6 +43,8 @@ jobs:
 
     - name: Commit changes
       if: env.check_changes == 'true'
+      permissions:
+        contents: write
       run: |
         git config user.name gha
         git config user.email gha@github.com
